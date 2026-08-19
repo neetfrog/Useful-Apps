@@ -2,6 +2,9 @@
 
 A curated list of applications and utilities installed on my system, organized by category.
 
+# Windows Apps Inventory
+
+
 ## 🛠️ Utilities & System Enhancements
 | App | Description |
 | :--- | :--- |
@@ -32,7 +35,7 @@ A curated list of applications and utilities installed on my system, organized b
 | App | Description |
 | :--- | :--- |
 | **Adobe Lightroom Classic** | Professional digital photo workflow and editing software |
-| **Adobe Photoshop 2026** | Industry-standard raster graphics and image editor |
+| **Adobe Photoshop** | Industry-standard raster graphics and image editor |
 | **DaVinci Resolve** | Professional video editing, color grading, and VFX suite |
 | **FastStone Image Viewer** | Fast image browser, converter, and viewer |
 | **foobar2000** | Highly customizable and lightweight audio player |
@@ -46,10 +49,8 @@ A curated list of applications and utilities installed on my system, organized b
 | App | Description |
 | :--- | :--- |
 | **AutoHotkey** | Scripting language for keyboard shortcuts and automation |
-| **CMake** | Cross-platform build system generator |
 | **Git** | Distributed version control system |
-| **Node.js** | JavaScript runtime built on Chrome's V8 engine |
-| **NVM for Windows** | Node.js version manager |
+| **VSCode** | IDE |
 | **Oracle VirtualBox** | Powerful x86 and virtualization software |
 | **Python** | Multi-paradigm programming language and interpreter environment |
 
@@ -58,3 +59,72 @@ A curated list of applications and utilities installed on my system, organized b
 | :--- | :--- |
 | **Google Chrome** | Fast, feature-rich web browser |
 | **Google Drive** | Cloud storage sync and file backup client |
+
+
+# Android Apps Inventory
+
+A curated list of non-system Android applications installed on my device, organized by category.
+
+## 📸 Photography, Video & Media
+| App | Description |
+| :--- | :--- |
+| **8Bit Photo Lab, Retro Effects** | Pixel art and retro photo editor |
+| **GuitarTuna: Tune & Play Guitar** | Popular instrument tuner and learning app |
+| **Instagram** | Social media app for photo and video sharing |
+| **Letterboxd** | Social network for tracking and reviewing movies |
+| **Light Meter - Lite** | Photography light meter tool |
+| **Lightroom Photo & Video Editor** | Professional mobile photo editor and camera by Adobe |
+| **nExt Camera - USB** | USB camera viewer and controller |
+| **Open Camera** | Advanced open-source camera application |
+| **Photo Compare** | Utility to compare two photos side-by-side |
+| **Piconica** | Retro/pixel photo styling app |
+| **RAW Viewer** | Viewer for RAW image formats |
+| **RPM Speed & Wow** | Turntable speed and wow/flutter measurement tool |
+| **Sensor Logger** | Comprehensive sensor data logging utility |
+| **Shazam: Find Music & Concerts** | Music recognition and discovery tool |
+| **Spotify: Music and Podcasts** | Music streaming and podcast platform |
+| **USB Camera** | USB camera connection and viewing utility |
+| **VLC for Android** | Versatile media player supporting numerous formats |
+| **VSCO: Photo Editor** | Creative photo editing and sharing app |
+| **White Border: Square Fit Photo** | Tool for adding borders to fit photos into square formats |
+| **YouTube** | Video streaming and sharing platform |
+
+## 🛠️ Utilities, Launchers & Tools
+| App | Description |
+| :--- | :--- |
+| **c:geo** | Open-source geocaching client |
+| **File Manager** | Native Xiaomi file management app |
+| **Nova Launcher: Home Screen** | Customizable home screen replacement launcher |
+| **Read Chan - 4chan Reader** | Client for browsing 4chan boards |
+| **Termux** | Android terminal emulator and Linux environment |
+
+## 🌐 Social, News & Communication
+| App | Description |
+| :--- | :--- |
+| **Google News - Daily Headlines** | News aggregation app |
+| **Reddit** | Social news aggregation and forum platform |
+| **Reuters - Breaking World News** | International news and reporting app |
+| **Wikipedia** | Free online encyclopedia reader |
+| **X** | Social microblogging platform |
+
+## 🗺️ Navigation, Travel & Transport
+| App | Description |
+| :--- | :--- |
+| **Trafi** | Public transport and mobility routing app |
+
+## 🛍️ Shopping, Finance & Services
+| App | Description |
+| :--- | :--- |
+| **AliExpress - Shopping App** | Online retail shopping marketplace |
+| **Bolt: Request a Ride** | Ride-hailing and transport service app |
+| **CoinMarketCap: Crypto Tracker** | Cryptocurrency market data and portfolio tracker |
+| **PayPal - Pay, Send, Save** | Digital wallet and online payment service |
+| **Phantom - Trade Markets** | Crypto trading and market tool |
+| **Revolut** | Digital banking and financial services app |
+| **Solflare: Solana Crypto Wallet** | Cryptocurrency wallet for the Solana network |
+| **Vinted: Shop & sell pre-loved** | Marketplace for second-hand clothing and goods |
+
+## 🏃 Health, Fitness & Weather
+| App | Description |
+| :--- | :--- |
+| **Strava: Run, Bike, Walk** | Fitness tracking app for running and cycling |
