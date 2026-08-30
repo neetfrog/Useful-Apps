@@ -46,6 +46,7 @@ A curated list of applications, utilities, browser extensions, and scripts insta
 | **[HandBrake](https://handbrake.fr/)** | Open-source video transcoder |
 | **[HDSDR](https://www.hdsdr.de/)** | Software-defined radio (SDR) receiver application |
 | **[K-Lite Codec Pack Full](https://www.codecguide.com/)** | Codec pack & Media Player Classic |
+| **[Magic Lantern](https://magiclantern.fm/)** | Open-source firmware add-on for Canon EOS cameras |
 | **[Picasa 3](https://picasa.google.com/)** | Classic desktop photo organizer and simple editor |
 | **[RetroArch](https://www.retroarch.com/)** | Frontend for emulators, game engines and media players |
 | **[ShareX](https://getsharex.com/)** | Screenshot & screen recording with sharing |
@@ -182,5 +183,5 @@ A curated list of browser extensions and userscripts.
 | **CleanGram** | Hides Instagram posts that are suggested, sponsored, or prompt for "Follow" using a flexible configuration |
 | **IG Helper** | Downloading is possible for both photos and videos from posts, as well as for stories, reels or profile picture |
 | **One-Click X/Twitter Media Downloader** | Download images, videos, and GIFs from X/Twitter with one click, save with user ID and post ID, customizable filenames, ZIP download on mobile |
-| **[Pagetual](https://github.com/inu1255/pagetual)** | Powerful auto-pager script for infinite scroll on paginated websites, supports thousands of sites without rules |
+| **[Pagetual](https://github.com/inu1255/pagetual)** | Professional auto-pager script for infinite scroll on paginated websites, supports thousands of sites without rules |
 | **Spotify Lyrics Extractor** | Get and copy Spotify Web lyrics |
