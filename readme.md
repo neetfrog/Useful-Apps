@@ -80,7 +80,7 @@ A curated list of non-system Android applications installed on my device, organi
 | **8Bit Photo Lab, Retro Effects** | Pixel art and retro photo editor |
 | **F-Droid** | Open-source Android app repository |
 | **GuitarTuna: Tune & Play Guitar** | Popular instrument tuner and learning app |
-| **Instander** | Modified Instagram client with extra features |
+| **Instafel** | Modified Instagram client with extra features https://instafel.mamii.dev/ |
 | **Instagram** | Social media app for photo and video sharing |
 | **Letterboxd** | Social network for tracking and reviewing movies |
 | **Light Meter - Lite** | Photography light meter tool |
